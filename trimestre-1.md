@@ -1,9 +1,22 @@
-# Primer trimestre
-### 14/09 · Mi primer TDA Lab
+[← Volver al inicio](README.md)
 
-- **Aplicación:** GitHub
-- **Entregado:** la dirección de mi Lab
-- **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
+# Primer trimestre
+
+## Cómo se añade una entrada
+
+Copia este bloque, pégalo **debajo de la última entrada** y rellénalo.
+La fecha va delante del nombre, siempre.
+
+```
+### 27/10 · Nombre de la actividad
+
+- **Aplicación:** con qué lo hiciste.
+- **Entregado:** el nombre del archivo que subiste a Teams.
+- **Qué hice:** una línea, para acordarte dentro de seis meses.
 
 ---
+```
 
+Tres líneas y ni una más. No copies el enunciado ni repitas lo que ya va en la entrega.
+
+---
