@@ -8,11 +8,9 @@ Copia este bloque, pégalo **debajo de la última entrada** y rellénalo.
 La fecha va delante del nombre, siempre.
 
 ```
-### 27/10 · Nombre de la actividad
+### 16/09 · Mis aficiones
 
-- **Aplicación:** con qué lo hiciste.
-- **Entregado:** el nombre del archivo que subiste a Teams.
-- **Qué hice:** una línea, para acordarte dentro de seis meses.
+En mi tiempo libre lo que más me gusta es salir a pasear con mi madre, me gusta pasar tiempo con ella y que me cuente que ha hecho en su día. Solemos dar un paseo de 1 hora y después volvemos a casa para hacer la cena, aunque hay veces que también viene mi abuela con nosotras.
 
 ---
 ```
