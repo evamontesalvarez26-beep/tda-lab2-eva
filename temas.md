@@ -9,7 +9,7 @@ aunque hay veces que también viene mi abuela con nosotras.
 
 Buscando en github he encontrado (https://github.com/VinayakVasisht/the-prodigal-son-inspiration-)
 
-![Descripción corta](capturas/nombre-de-tu-imagen.jpg)
+![Descripción corta](capturas/paseogijon.jpg)
 
 ---
 ```
