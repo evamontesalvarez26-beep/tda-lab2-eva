@@ -19,7 +19,7 @@ Leo Messi nació en Argentina, es reconocido por su carrera futbolística, comen
 En mitad del texto va el enlace, así:
 [su página en la Fundación]([https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=trayectoria])
 
-![DESCRIPCION CORTA](capturas/Messi.jpg)
+![IMAGEN](capturas/Messi.jpg)
 
 Imagen: Enric Lamarca Rizo,[Wikimedia Commons]([https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Leo_Messi_v_Almeria_020314_%28extra_crop%29.jpg/960px-Leo_Messi_v_Almeria_020314_%28extra_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail])
 
