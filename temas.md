@@ -11,8 +11,8 @@ Buscando en github he encontrado
 
 ![Descripción corta](capturas/paseo.jpg)
 
----
-```
+
+
 ### 28/09 · Premios Princesa de Asturias: Leo Messi
 
 Leo Messi nació en Argentina, es reconocido por su carrera futbolística, comenzó en el equipo de su ciudad de pequeño, hasta llegar al F.C.BARCELONA. Lleva a sus espaldas 47 títulos, a nivel colectivo e individual. Destaca especialmente el Balón de Oro, premio que ha obtenido hasta en ocho ocasiones y que lo sitúa entre los jugadores más importantes de la historia. Lo he elegido porque me parece un jugador que además de destacar en el campo, destaca también en otros ámbitos como pueden ser las relaciones públicas y el compromiso que tiene con asociaciones infantiles.
