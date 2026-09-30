@@ -7,7 +7,7 @@ me gusta pasar tiempo con ella y que me cuente que ha hecho en su día.
 Solemos dar un paseo de 1 hora y después volvemos a casa para hacer la cena,
 aunque hay veces que también viene mi abuela con nosotras.
 
-Buscando en github he encontrado
+Buscando en github he encontrado[Paseo](https://github.com/Carlos29Blanco/trankiMama)
 
 ![Descripción corta](capturas/paseo.jpg)
 
