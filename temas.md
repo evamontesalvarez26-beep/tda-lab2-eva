@@ -31,3 +31,6 @@ Ada Lovelace fue una matemática y escritora británica del siglo XIX, hoy recon
 Lovelace hizo el primer algoritmo, en 1843, Lovelace tradujo y amplió un artículo sobre la Máquina Analítica de Charles Babbage. Sus notas explicativas contenían lo que hoy se considera el primer programa informático: un algoritmo codificado para que la máquina calculara una secuencia de números de Bernoulli y también Ada comprendió que el aparato podía procesar no solo números, sino también símbolos, música o arte, anticipando las capacidades de los ordenadores modernos.
 
 Su dia se celebra el segundo martes de octubre de cada año porque es un evento internacional creado en 2009 para conmemorar los logros de las mujeres en la ciencia, la tecnología, la ingeniería y las matemáticas (STEM), utilizando su figura como inspiración para combatir la brecha de género en estas disciplinas.
+
+Autor:E.Le Morvan
+https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image
