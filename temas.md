@@ -35,5 +35,5 @@ Su dia se celebra el segundo martes de octubre de cada año porque es un evento 
 
 
 
-![Ada](capturas/ada.jpg){: width="300"}
+![Ada](capturas/ada.png){: width="300"}
 *PIE DE FOTO. Imagen:E.Le Morvan, [Wikimedia Commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image))*
