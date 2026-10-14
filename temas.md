@@ -24,3 +24,10 @@ En mitad del texto va el enlace, así:
 Imagen: Enric Lamarca Rizo,[Wikimedia Commons]([https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Leo_Messi_v_Almeria_020314_%28extra_crop%29.jpg/960px-Leo_Messi_v_Almeria_020314_%28extra_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail])
 
 ---
+
+### 14/10· Ada Lovelace
+
+Ada Lovelace fue una matemática y escritora británica del siglo XIX, hoy reconocida como la primera programadora de ordenadores de la historia.
+Lovelace hizo el primer algoritmo, en 1843, Lovelace tradujo y amplió un artículo sobre la Máquina Analítica de Charles Babbage. Sus notas explicativas contenían lo que hoy se considera el primer programa informático: un algoritmo codificado para que la máquina calculara una secuencia de números de Bernoulli y también Ada comprendió que el aparato podía procesar no solo números, sino también símbolos, música o arte, anticipando las capacidades de los ordenadores modernos.
+
+Su dia se celebra el segundo martes de octubre de cada año porque es un evento internacional creado en 2009 para conmemorar los logros de las mujeres en la ciencia, la tecnología, la ingeniería y las matemáticas (STEM), utilizando su figura como inspiración para combatir la brecha de género en estas disciplinas.
