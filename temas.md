@@ -37,3 +37,18 @@ Su dia se celebra el segundo martes de octubre de cada año porque es un evento 
 
 ![Ada](capturas/ada.png){:width="300"}
 *Imagen:E.Le Morvan, [Wikimedia Commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image))*
+
+
+
+### 9/10·U1_A1_EscribirEnPantalla
+
+### 19/10·U1_A2_VarablesyOperadores
+
+### 23/10·U1_A3_Decisiones
+
+### 23/10·U1_A4-Repetición
+
+### 6/11·U1_A5-Cadenas y Listas
+
+### 16/11·U1_A6-Funciones
+
