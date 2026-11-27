@@ -38,9 +38,32 @@ Su dia se celebra el segundo martes de octubre de cada año porque es un evento 
 ![Ada](capturas/ada.png){:width="300"}
 *Imagen:E.Le Morvan, [Wikimedia Commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://commons.wikimedia.org/w/index.php?search=Ada+Lovelace&title=Special%3AMediaSearch&type=image))*
 
+---
+### 27/11 · Voyager 1
+
+La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977 para explorar los planetas exteriores y que hoy viaja por el espacio interestelar. Recientemente es noticia porque alcanzó la distancia histórica de un día luz de la Tierra, lo que significa que nuestras señales tardan 24 horas en llegar hasta ella, mientras los ingenieros intentan reparar a distancia un fallo en el envío de sus datos. Como curiosidad, lleva a bordo el Disco de Oro, una cápsula del tiempo con saludos en 55 idiomas, fotos, sonidos naturales y música para posibles civilizaciones extraterrestres.
+[Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1)
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento |5 de Septiembre de 1977 |
+| Distancia a la Tierra |  25.900 millones de kilómetros |
+| Velocidad |  61 000 km/h |
+| Lo que tarda su señal en llegar | 24 h |
+| Años de viaje | 49 años |
+
+![DESCRIPCIÓN CORTA](capturas/voyager.jpg){: width="300"}
+*PIE DE FOTO. Imagen: NASA/JPLR, [Wikimedia Commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/960px-Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail))*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** Pondría canciones actuales, alguna tipica española como puede ser alguna flamenca.
+- **En qué idioma:** En inglés porque es el idioma que domina mucha parte del mundo y puede que en otros pasies tambien o pienso que podría poner también el código morse.
+- **En qué formato:** papel.
+
+---
 
 
-###27/11
 
-La Voyager 1 es una sonda espacial no tripulada de la NASA, considerada el objeto fabricado por el ser humano más lejano de la Tierra, y se lanzó el 5 de septiembre de 1977.Es importante ahora porque ha alcanzado la marca de un día luz de la Tierra (cerca de 26.000 millones de kilómetros) tras casi cinco décadas de viaje. En 2024 los ingenieros de la NASA aislaron un chip de memoria dañado, dividieron el código afectado en pequeños bloques y los repartieron por otros espacios libres de la memoria del ordenador de abordo.
+
 
