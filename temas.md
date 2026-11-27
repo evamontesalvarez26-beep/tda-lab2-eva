@@ -41,7 +41,7 @@ Su dia se celebra el segundo martes de octubre de cada año porque es un evento 
 ---
 ### 27/11 · Voyager 1
 
-La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977 para explorar los planetas exteriores y que hoy viaja por el espacio interestelar. Recientemente es noticia porque alcanzó la distancia histórica de un día luz de la Tierra, lo que significa que nuestras señales tardan 24 horas en llegar hasta ella, mientras los ingenieros intentan reparar a distancia un fallo en el envío de sus datos. Como curiosidad, lleva a bordo el Disco de Oro, una cápsula del tiempo con saludos en 55 idiomas, fotos, sonidos naturales y música para posibles civilizaciones extraterrestres.
+La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977 para explorar los planetas y que hoy viaja por el espacio interestelar. Actualmente es noticia porque alcanzó la distancia histórica de un día luz de la Tierra, lo que significa que nuestras señales tardan 24 horas en llegar hasta ella, mientras los ingenieros intentan reparar a distancia un fallo en el envío de sus datos. Como curiosidad, lleva a bordo el Disco de Oro, una cápsula del tiempo con saludos en 55 idiomas, fotos, sonidos naturales y música para posibles civilizaciones extraterrestres.
 
 [Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1)
 
@@ -53,7 +53,7 @@ La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977
 | Lo que tarda su señal en llegar | 24 h |
 | Años de viaje | 49 años |
 
-![Voyager en el espacio](capturas/voyager.jpg){: width="400"}
+![Voyager en el espacio](capturas/voyager.jpg){: width="640"}
 *PIE DE FOTO. Imagen: NASA/JPLR, [Wikimedia Commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/960px-Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail))*
 
 **Mi Disco de Oro 2026**
