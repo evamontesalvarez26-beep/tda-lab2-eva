@@ -40,15 +40,7 @@ Su dia se celebra el segundo martes de octubre de cada año porque es un evento 
 
 
 
-### 9/10·U1_A1_EscribirEnPantalla
+###27/11
 
-### 19/10·U1_A2_VarablesyOperadores
-
-### 23/10·U1_A3_Decisiones
-
-### 23/10·U1_A4-Repetición
-
-### 6/11·U1_A5-Cadenas y Listas
-
-### 16/11·U1_A6-Funciones
+La Voyager 1 es una sonda espacial no tripulada de la NASA, considerada el objeto fabricado por el ser humano más lejano de la Tierra, y se lanzó el 5 de septiembre de 1977.Es importante ahora porque ha alcanzado la marca de un día luz de la Tierra (cerca de 26.000 millones de kilómetros) tras casi cinco décadas de viaje. En 2024 los ingenieros de la NASA aislaron un chip de memoria dañado, dividieron el código afectado en pequeños bloques y los repartieron por otros espacios libres de la memoria del ordenador de abordo.
 
