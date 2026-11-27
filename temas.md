@@ -52,14 +52,14 @@ La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977
 | Lo que tarda su señal en llegar | 24 h |
 | Años de viaje | 49 años |
 
-![DESCRIPCIÓN CORTA](capturas/voyager.jpg){: width="300"}
+![Voyager en el espacio](capturas/voyager.jpg){: width="300"}
 *PIE DE FOTO. Imagen: NASA/JPLR, [Wikimedia Commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/960px-Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail))*
 
 **Mi Disco de Oro 2026**
 
 - **Lo que pondría:** Pondría canciones actuales, alguna tipica española como puede ser alguna flamenca.
 - **En qué idioma:** En inglés porque es el idioma que domina mucha parte del mundo y puede que en otros pasies tambien o pienso que podría poner también el código morse.
-- **En qué formato:** papel.
+- **En qué formato:** Las canciones en un disco y un mensaje en inglés en formato papel.
 
 ---
 
